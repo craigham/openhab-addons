@@ -10,7 +10,7 @@
     <version>3.1.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>org.openhab.binding.russound</artifactId>
+  <artifactId>org.openhab.binding.russound-rnet</artifactId>
 
   <name>openHAB Add-ons :: Bundles :: Russound Binding</name>
 
